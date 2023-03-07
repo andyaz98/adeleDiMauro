@@ -1,0 +1,360 @@
+@media screen and (max-width: 340px){
+
+  nav #siteLogoContainer{
+    width: 174px;
+  }
+
+  nav #siteLogoContainer #siteLogo{
+    height: 29px;
+  }
+
+  nav #siteLogoContainer .title{
+    font-size: 25px;
+  }
+
+  nav #siteLogoContainer .subtitle{
+    font-size: 7px;
+  }
+
+
+  nav .navElements {
+    display: none;
+  }
+
+  nav #sidebarOpener {
+    display: flex;
+  }
+
+  nav .sidebarElements {
+    display: flex;
+  }
+
+
+  header #userImgContainer {
+    display: none;
+  }
+
+  body #searchLayer {
+    display: none;
+  }
+
+  body #searchSection {
+    background-color: orange;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    box-shadow: 5px 10px 18px #888888;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    padding-left: 0.7%;
+    padding-right: 0.7%;
+  }
+
+  body #searchSection #sort input[name=sortPaintings] {
+    font-size: xx-small;
+  }
+
+  body #searchSection #sort select {
+    font-size: xx-small;
+  }
+
+  body #searchSection #search button {
+    font-size: xx-small;
+  }
+
+  #mainSection #paintings .paintingContainer {
+    transition: none;
+    width: 70%;
+  }
+
+  #mainSection #paintings .paintingContainer:hover {
+    -ms-transform:none;
+    -webkit-transform: none;
+    transform: none;
+  }
+
+  #mainSection #paintings .paintingContainer img{
+    width: 100%;
+  }
+
+
+}
+
+@media screen and (max-width: 425px) and (min-width:341px){
+
+  nav #siteLogoContainer{
+    width: 263px;
+  }
+
+  nav #siteLogoContainer #siteLogo{
+    height: 43px;
+  }
+
+  nav #siteLogoContainer .title{
+    font-size: 33px;
+  }
+
+  nav #siteLogoContainer .subtitle{
+    font-size: 12px;
+  }
+
+
+  nav .navElements {
+    display: none;
+  }
+
+  nav #sidebarOpener {
+    display: flex;
+  }
+
+  nav .sidebarElements {
+    display: flex;
+  }
+
+
+  header #userImgContainer {
+    display: none;
+  }
+
+  body #searchLayer {
+    display: none;
+  }
+
+  body #searchSection {
+    background-color: orange;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    box-shadow: 5px 10px 18px #888888;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    padding-left: 0.7%;
+    padding-right: 0.7%;
+  }
+
+  body #searchSection #sort input[name=sortPaintings] {
+    font-size: small;
+  }
+
+  body #searchSection #sort select {
+    font-size: small;
+  }
+
+  body #searchSection #search button {
+    font-size: small;
+  }
+
+  #mainSection #paintings .paintingContainer {
+    transition: none;
+    width: 70%;
+  }
+
+  #mainSection #paintings .paintingContainer:hover {
+    -ms-transform:none;
+    -webkit-transform: none;
+    transform: none;
+  }
+
+  #mainSection #paintings .paintingContainer img{
+    width: 100%;
+  }
+
+  
+
+}
+
+
+@media screen and (max-width: 1024px) and (min-width:426px) {
+
+  nav #siteLogoContainer{
+    width: 263px;
+  }
+
+  nav #siteLogoContainer #siteLogo{
+    height: 43px;
+  }
+
+  nav #siteLogoContainer .title{
+    font-size: 33px;
+  }
+
+  nav #siteLogoContainer .subtitle{
+    font-size: 12px;
+  }
+
+
+  nav .navElements {
+    display: none;
+  }
+
+  nav #sidebarOpener {
+    display: flex;
+  }
+
+  nav .sidebarElements {
+    display: flex;
+  }
+
+
+  header #userImgContainer {
+    display: none;
+  }
+
+  body #searchLayer {
+    display: none;
+  }
+
+  body #searchSection {
+    background-color: orange;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    box-shadow: 5px 10px 18px #888888;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    padding-left: 0.7%;
+    padding-right: 0.7%;
+  }
+
+  body #searchSection #sort input[name=sortPaintings] {
+    font-size: small;
+  }
+
+  body #searchSection #sort select {
+    font-size: small;
+  }
+
+  body #searchSection #search button {
+    font-size: small;
+  }
+
+  #mainSection #paintings .paintingContainer {
+    transition: none;
+  }
+
+  #mainSection #paintings .paintingContainer:hover {
+    -ms-transform:none;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+
+
+@media screen and (max-width:1060px) and (min-width:1025px) {
+  body #searchSection #sort input[name=sortPaintings] {
+    font-size: medium;
+  }
+
+  body #searchSection #sort select {
+    font-size: medium;
+  }
+
+  body #searchSection #search button {
+    font-size: medium;
+  }
+
+  body #searchSection {
+    margin-top: -3.1%;
+  }
+}
+
+@media screen and (max-width:1140px) and (min-width:1061px) {
+  body #searchSection {
+    margin-top: -3.1%;
+  }
+}
+
+@media screen and (max-width:1280px) and (min-width:1141px) {
+  body #searchSection {
+    margin-top: -3%;
+  }
+}
+
+@media screen and (max-width:1500px) and (min-width:1281px) {
+  body #searchSection {
+    margin-top: -2.8%;
+  }
+}
+
+
+/*For higher resolutions than 1080p*/
+
+@media screen and (min-width:2200px){
+
+  nav #siteLogoContainer{
+    width: 700px;
+  }
+
+  nav #siteLogoContainer #siteLogo{
+    height: 116px;
+  }
+
+  nav #siteLogoContainer .title{
+    font-size: 64px;
+  }
+
+  nav #siteLogoContainer .subtitle{
+    font-size: 21px;
+  }
+
+  nav .navElements div{
+    font-size: 300%;
+  }
+
+  body #searchSection #sort input[name=sortPaintings] {
+    font-size: xx-large;
+  }
+
+  body #searchSection #sort select {
+    font-size: xx-large;
+  }
+
+  body #searchSection #search button {
+    font-size: xx-large;
+  }
+}
+
+@media screen and (min-width:3600px){
+
+  nav #siteLogoContainer{
+    width: 1000px;
+  }
+
+  nav #siteLogoContainer #siteLogo{
+    height: 150px;
+  }
+
+  nav #siteLogoContainer .title{
+    font-size: 96px;
+  }
+
+  nav #siteLogoContainer .subtitle{
+    font-size: 31px;
+  }
+
+  .paintingDescription{
+    font-size: large;
+  }
+
+  nav .navElements div{
+    font-size: 350%;
+  }
+
+  nav #siteLogo div {
+    font-size: 450%;
+  }
+  body #searchSection #sort input[name=sortPaintings] {
+    font-size: xxx-large;
+  }
+
+  body #searchSection #sort select {
+    font-size: xxx-large;
+  }
+
+  body #searchSection #search button {
+    font-size: xxx-large;
+  }
+}
